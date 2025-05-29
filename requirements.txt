@@ -1,0 +1,7 @@
+openai
+langchain
+pinecone-client
+streamlit
+speechrecognition
+pyaudio
+pandas
